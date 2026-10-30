@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">TLTTD_Lec5</string>
+    <string name="title_register">ĐĂNG KÝ TÀI KHOẢN</string>
+    <string name="subtitle_register">Vui lòng điền đầy đủ thông tin bên dưới</string>
+
+    <string name="hint_name">Họ và tên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_dob">Ngày sinh</string>
+    <string name="hint_gender">Giới tính</string>
+    <string name="hint_address">Địa chỉ</string>
+
+    <string name="gender_male">Nam</string>
+    <string name="gender_female">Nữ</string>
+    <string name="gender_other">Khác</string>
+
+    <string name="btn_submit">Tạo tài khoản</string>
+    <string name="btn_cancel">Huỷ nhập</string>
+
+    <string name="err_empty_name">Họ tên tối thiểu 3 ký tự</string>
+    <string name="err_invalid_email">Email không đúng định dạng</string>
+    <string name="err_short_pass">Mật khẩu tối thiểu 6 ký tự</string>
+    <string name="err_invalid_phone">Số điện thoại không hợp lệ (10 số)</string>
+    <string name="err_empty_dob">Vui lòng chọn ngày sinh</string>
+    <string name="err_empty_address">Địa chỉ tối thiểu 3 ký tự</string>
+    <string name="err_form_fail">Vui lòng kiểm tra lại thông tin trên form!</string>
+
+    <string name="title_home">THÔNG TIN TÀI KHOẢN</string>
+    <string name="subtitle_home">Thông tin chi tiết người dùng đã đăng ký</string>
+    <string name="label_name">Họ và tên</string>
+    <string name="label_email">Email</string>
+    <string name="label_phone">Số điện thoại</string>
+    <string name="label_dob">Ngày sinh</string>
+    <string name="label_gender">Giới tính</string>
+    <string name="label_address">Địa chỉ</string>
+    <string name="btn_logout">Đăng xuất / Quay lại</string>
 </resources>
